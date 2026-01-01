@@ -1,0 +1,8 @@
+{
+  "name": "Laith AI - Super App",
+  "description": "A powerful AI assistant built by Laith, featuring real-time voice, search grounding, and advanced visuals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
